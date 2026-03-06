@@ -18,33 +18,7 @@
 </p>
 
 
-<p align="left">
-    <a href="https://github.com/osiqon?tab=repositories&sort=stargazers" style="text-decoration:none;">
-        <img
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/osiqon?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/osiqon?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/osiqon?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-    <a href="https://www.linkedin.com/in/marcosiq">
-        <img 
-            alt="LinkedIn"
-            title="Meu perfil no LinkedIn"
-            src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
-    <a href="https://technicalcorporation.com.com">
-    <img 
-        alt="Site da empresa"
-        title="Acessar site da empresa"
-        src="https://img.shields.io/badge/Site-Technical Corporation-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white"
-    />
-    </a>
-</p>
+[![Estrelas](https://custom-icon-badges.demolab.com/github/stars/osiqon?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas)](https://github.com/osiqon?tab=repositories&sort=stargazers)
+[![Seguidores](https://custom-icon-badges.demolab.com/github/followers/osiqon?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white)](https://github.com/osiqon?tab=followers)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-USUARIO)
+[![Site](https://img.shields.io/badge/Site-Technical%20Corporation-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://seusite.com)
