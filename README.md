@@ -17,6 +17,8 @@
     Atuação orientada à estabilidade operacional, redução de incidentes e continuidade de serviços corporativos.
 </p>
 
+### 📊 Estatísticas
+
 | Streak de Commits | Atividade no Repositório |
 |---|---|
 | ![GitHub Streak](https://streak-stats.demolab.com?user=osiqon&theme=dark) | ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=osiqon&theme=github-dark&height=200&hide_border=true) |
