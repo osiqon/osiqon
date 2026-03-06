@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Marco C. Siqueira
 
-**`Desenvolvedor FullStack`**
+**`Linux Network Engineer`**
 
 <p align="left">
     Profissional de Infraestrutura Linux com mais de 10 anos de experiência em ambientes corporativos críticos, atuando na sustentação, automação e otimização de servidores Linux em operação 24x7.
