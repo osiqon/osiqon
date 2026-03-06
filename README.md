@@ -119,4 +119,4 @@
 ##
 
 ### 📊 Atividade no Repositório
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=osiqon&theme=github&height=200&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=osiqon&theme=github&height=400&hide_border=true)
