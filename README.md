@@ -19,8 +19,8 @@
 
 
 <p align="left">
-    <a href="https://github.com/osiqon?tab=repositories&sort=stargazers">
-        <img 
+    <a href="https://github.com/osiqon?tab=repositories&sort=stargazers" style="text-decoration:none;">
+        <img
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/osiqon?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
