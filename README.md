@@ -104,8 +104,6 @@
 
 ### 📊 Estatísticas
 
-### 📊 Estatísticas
-
 | Streak de Commits | Atividade no Repositório |
 |---|---|
 | [![GitHub Streak](https://streak-stats.demolab.com?user=osiqon&theme=dracula&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) | ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=osiqon&theme=github&height=200&hide_border=true) |
